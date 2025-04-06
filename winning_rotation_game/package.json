@@ -1,5 +1,12 @@
 {
-  "name": "winning-rotation",
+  "name": "winning_rotation_game",
   "version": "1.0.0",
-  "private": true
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
